@@ -1,0 +1,10 @@
+{
+    "name":"QuantStudio",
+    "version": "1.0",
+    "config": {
+        "DataType":"D",
+        "Market": "AllMrkts",
+        "Filters":"CAP>100;",
+        "Sector":"-1"
+    }
+}
